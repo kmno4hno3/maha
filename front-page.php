@@ -243,8 +243,8 @@
       </div>
       <div class="btn-wrapper">
         <!-- <div class="btn-wrapper-inner"> -->
-          <a href="" class="contact-btn">お問い合わせはこちら</a>
-          <a href="<?php echo get_field('reserv'); ?>" class="conversion conversion-ticket">チケット予約サイトへ</a>
+        <a href="" class="contact-btn">お問い合わせはこちら</a>
+        <a href="<?php echo get_field('reserv'); ?>" class="conversion conversion-ticket">チケット予約サイトへ</a>
         <!-- </div> -->
       </div>
     </div>
